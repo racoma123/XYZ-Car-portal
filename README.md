@@ -4,6 +4,7 @@
 **Functionalities of XYZ-Car-Portal**
 
 • User can able to post a new car along with image.
+
 • User can book for a car test.
 • User can bid for a car.
 • Admin can choose to activate or deactivate the car sale.
