@@ -1,7 +1,7 @@
 # XYZ-Car-portal
   • This project is to design, develop a used car sales portal using Spring Boot framework, Spring Security, Spring Data JPA and MySQL server.
 
-**Users should be able to perform following functions in the portal**
+**Users can  perform following functions in the portal**
 
 • Register in the Portal 
 
@@ -14,9 +14,13 @@
 • Update their Profile after logging in. 
 
 • Book an appointment for test drive
+
  • Post the bidding price
 
-**Administrators should be able to perform the following functions in the portal **
+
+
+**Administrators can to perform the following functions in the portal **
+
 
 • Register in the Portal 
 
