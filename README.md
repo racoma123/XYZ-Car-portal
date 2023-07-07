@@ -2,13 +2,14 @@
   •This project is to design, develop a used car sales portal using Spring Boot framework, Spring Security, Spring Data JPA and MySQL server.
 
 **Functionalities of XYZ-Car-Portal**
-•User can able to post a new car along with image.
-•User can book for a car test.
-•User can bid for a car.
-•Admin can choose to activate or deactivate the car sale.
-•Admin can choose to approve or deny the appointment from user.
-•Admin can assign administration privilege to particular user.
-•Both user can edit profile information.
+
+• User can able to post a new car along with image.
+• User can book for a car test.
+• User can bid for a car.
+• Admin can choose to activate or deactivate the car sale.
+• Admin can choose to approve or deny the appointment from user.
+• Admin can assign administration privilege to particular user.
+• Both user can edit profile information.
 
 **Tools and Platforms**
 •	Spring Tool Suite
